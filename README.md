@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="sticker/frog-wow-scroll.gif" width="40"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ronnie (Rong Hu), a Phd student at Hunan University from <img src="china_icon_134833.ico" width="20"/> <b>China</b>. </p>
+<p>Welcome to my page! </br> I'm Ronnie (Rong Hu), a Phd student at Hunan University from <img src="sticker/china_icon_134833.ico" width="20"/> <b>China</b>. </p>
 
 
 
