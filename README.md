@@ -1,11 +1,13 @@
 <h1><img src="sticker/frog-wow-scroll.gif" width="40"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Ronnie (Rong Hu), a Phd student at Hunan University from <img src="sticker/china_icon_134833.ico" width="20"/> <b>China</b>. </p>
+My name is Rong Hu (Ronnie, 胡蓉), and I am a PhD student at Hunan University, advised by Professor Wangdong Yang and Kenli Li. I am also a visiting student at the University of Cologne, collaborating with Professor Ziyue Li.
+
+My research focuses on GPU-accelerated computing, tensor decomposition, and LLM compression to enhance efficiency in large-scale AI systems. I develop scalable algorithms for tensor-based optimization, sparse computations, and deep learning model compression.
+
+If you’re interested in tensor methods, parallel computing, or LLM compression, feel free to reach out!
 
 
 
-
-<!--START_SECTION:waka-->
 
 ```txt
 Markdown     39 mins         ████████████▒░░░░░░░░░░░░   49.14 %
@@ -15,7 +17,7 @@ MATLAB       3 mins          █░░░░░░░░░░░░░░░░
 Public Key   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
-<!--END_SECTION:waka-->
+
 
 
 
