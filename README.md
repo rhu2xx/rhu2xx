@@ -8,20 +8,14 @@ If you’re interested in tensor methods, parallel computing, or LLM compression
 
 
 
-
-```txt
-Markdown     39 mins         ████████████▒░░░░░░░░░░░░   49.14 %
-SSH Config   18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.61 %
-YAML         12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
-MATLAB       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-Public Key   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-```
+# :computer: Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
 
-
-# Blog posts
+# :bookmark_tabs: Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Shallow Thinkings in KV Cache](https://medium.com/@rhu2xx/shallow-thinkings-in-kv-cache-898459330858?source=rss-db674d80abb6------2)
 <!-- BLOG-POST-LIST:END -->
