@@ -11,14 +11,12 @@ If you’re interested in tensor methods, parallel computing, or LLM compression
 # :computer: Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```rust
-From: 21 July 2025 - To: 28 July 2025
-
+```txt
 Total Time: 5 hrs 25 mins
 
-Markdown     3 hrs 4 mins    >>>>>>>>>>>>>------------   53.85 %
-Python       1 hr 55 mins    >>>>>>>>-----------------   33.60 %
-Other        16 mins         >------------------------   04.87 %
+Markdown     3 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.85 %
+Python       1 hr 55 mins    ████████▒░░░░░░░░░░░░░░░░   33.60 %
+Other        16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 ```
 
 <!--END_SECTION:waka-->
