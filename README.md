@@ -26,6 +26,9 @@ Other        16 mins         █▒░░░░░░░░░░░░░░░
 
 # :bookmark_tabs: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SVD in LLM Compression](http://rhu2xx.github.io/2025/07/21/SVD-in-LLM-Compression/)
+- [About Me](http://rhu2xx.github.io/2025/07/21/about-me/)
+- [My First Blog Post](http://rhu2xx.github.io/2024/07/21/first-blog-post/)
 <!-- BLOG-POST-LIST:END -->
 
 
