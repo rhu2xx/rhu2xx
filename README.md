@@ -26,6 +26,8 @@ Other        16 mins         █▒░░░░░░░░░░░░░░░
 
 # :bookmark_tabs: Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SVD in LLM Compression](http://rhu2xx.github.io/2025/07/21/SVD-in-LLM-Compression/)
+- [Shallow Thinkings in KV Cache](https://medium.com/@rhu2xx/shallow-thinkings-in-kv-cache-898459330858?source=rss-db674d80abb6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
