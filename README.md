@@ -12,12 +12,12 @@ If you’re interested in tensor methods, parallel computing, or LLM compression
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 24 mins
+Total Time: 13 hrs 41 mins
 
-Python       4 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.66 %
-Markdown     2 hrs 54 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 %
-JavaScript   1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Pug          33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Python       6 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.95 %
+Markdown     2 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+JavaScript   1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+Bash         51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
