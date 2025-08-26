@@ -12,11 +12,10 @@ If you’re interested in tensor methods, parallel computing, or LLM compression
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 49 mins
+Total Time: 1 hr 10 mins
 
-Python   1 hr 18 mins    ██████████████░░░░░░░░░░░   56.49 %
-Bash     31 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-Other    29 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+Python   1 hr 3 mins     ███████████████████░░░░░░   75.43 %
+Other    13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.69 %
 ```
 
 <!--END_SECTION:waka-->
