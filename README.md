@@ -1,10 +1,10 @@
 <h1><img src="sticker/frog-wow-scroll.gif" width="40"/> Hey! Nice to see you.</h1>
 
-My name is Rong Hu (Ronnie, 胡蓉), and I am a PhD student at Hunan University, advised by Professor Wangdong Yang and Kenli Li. I am also a visiting student at the University of Cologne, collaborating with Professor Ziyue Li.
+<!--My name is Rong Hu (Ronnie, 胡蓉), and I am a PhD student at Hunan University, advised by Professor Wangdong Yang and Kenli Li. I am also a visiting student at the University of Cologne, collaborating with Professor Ziyue Li.
 
 My research focuses on GPU-accelerated computing, tensor decomposition, and LLM compression to enhance efficiency in large-scale AI systems. I develop scalable algorithms for tensor-based optimization, sparse computations, and deep learning model compression.
 
-If you’re interested in tensor methods, parallel computing, or LLM compression, feel free to reach out!
+If you’re interested in tensor methods, parallel computing, or LLM compression, feel free to reach out! -->
 
 
 
